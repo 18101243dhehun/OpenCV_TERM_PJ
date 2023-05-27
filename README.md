@@ -22,7 +22,7 @@ My Computer VIsion Final Project
 
 ![poster](./basic.png)
 
-기본적인 틀은 https://076923.github.io/posts/Python-tkinter-32/의 글을 참고하였습니다.
+기본적인 틀은 https://076923.github.io/posts/Python-tkinter-32/ 의 글을 참고하였습니다.
 
 기본적으로 kirby_sleep.png가 업로드 되어 있고 
 
@@ -62,7 +62,7 @@ My Computer VIsion Final Project
 
    - 지정한 이미지 범위에 모자이크를 적용시킵니다.
 
-   - 모자이크 적용 방법은 https://bkshin.tistory.com/entry/OpenCV-16-%EB%AA%A8%EC%9E%90%EC%9D%B4%ED%81%AC-%EC%B2%98%EB%A6%ACMosaic-%EB%A6%AC%ED%80%B4%ED%8C%8C%EC%9D%B4Liquify-%EC%99%9C%EA%B3%A1-%EA%B1%B0%EC%9A%B8Distortion-Mirror를 
+   - 모자이크 적용 방법은 https://bkshin.tistory.com/entry/OpenCV-16-%EB%AA%A8%EC%9E%90%EC%9D%B4%ED%81%AC-%EC%B2%98%EB%A6%ACMosaic-%EB%A6%AC%ED%80%B4%ED%8C%8C%EC%9D%B4Liquify-%EC%99%9C%EA%B3%A1-%EA%B1%B0%EC%9A%B8Distortion-Mirror 를 
 
      참고하였습니다
 
@@ -76,7 +76,7 @@ My Computer VIsion Final Project
 
    - ![poster](./cartoon.png)
    - 지정한 이미지 범위에 카툰 효과를 적용시킵니다.
-   - 카툰 필터 적용 방법은 https://deep-learning-study.tistory.com/173을 참고하였습니다.
+   - 카툰 필터 적용 방법은 https://deep-learning-study.tistory.com/173 을 참고하였습니다.
 
 9. 이미지에 그림 그리기
 
