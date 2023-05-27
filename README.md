@@ -44,7 +44,7 @@ My Computer VIsion Final Project
 
    - ![poster](./binary.png)
    - 지정한 이미지 범위에 이진화 처리를 적용시킵니다.
-   - 마찬가지로 https://076923.github.io/posts/Python-tkinter-32/의 글을 참고하였습니다.
+   - 마찬가지로 https://076923.github.io/posts/Python-tkinter-32/ 의 글을 참고하였습니다.
    
 4.  색상 반전
    - ![poster](./convert.png)
