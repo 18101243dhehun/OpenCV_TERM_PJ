@@ -109,6 +109,8 @@ My Computer VIsion Final Project
 11. 이미지 저장
 
     - 편집한 이미지를 지정된 경로에 지정된 형식으로 저장합니다
+    
+    - 이미지를 저장하려면 관리자 권한이 필요합니다.(Windows)
 
     - 지정된 경로와 형식은 코드의 'cv2.imwrite("C:/Users/kirby_sleep_edit.png", img)' 부분에서
 
